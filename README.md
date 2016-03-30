@@ -1,0 +1,2 @@
+# linuxCommands
+reverce ssh command
